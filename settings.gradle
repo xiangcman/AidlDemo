@@ -1,0 +1,4 @@
+include ':bproject'
+include ':aproject'
+//include ':app'
+rootProject.name = "AidlDemo"
